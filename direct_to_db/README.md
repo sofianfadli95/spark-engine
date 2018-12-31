@@ -1,4 +1,7 @@
 ### Sentiment Analysis using Python and Connect to Oracle DB
+
+![alt text](images/schema_model.png "Logo Title Text 1")
+
 Keterangan :
 fb_to_db.py : Codingan untuk menganalisis sentiment dan entity dari fb, kemudian langsung ditembakkan ke database Oracle
 twitter_to_db.py : Codingan untuk menganalisis sentiment dan entity dari twitter, kemudian langsung ditembakkan ke database Oracle
